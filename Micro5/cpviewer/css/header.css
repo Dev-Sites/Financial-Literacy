@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* This is the default style sheet for the 'header.htm' frame */	
+
+body {
+	font-family: arial, helvetica, sans-serif;
+	color: #000;
+	background-color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: #000;
+	font-size: 140%;
+	background-color: #fff;
+	padding-left: 10px;
+}
+
+p {
+	color: #000;
+	font-size: 70%;
+	background-color: #ccc;
+	margin: 0;
+	padding: 2px;
+}
+
+img {
+	border: 0px none #fff;
+	margin: 5px 10px;
+	float: right;
+}

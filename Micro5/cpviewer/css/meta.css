@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* Styles for page 'meta.htm' */	
+
+body {
+	font-family: verdana, arial, helvetica, sans-serif;
+	color: #000;
+	background-color: #fff;
+	font-size: 80%;
+	margin: 0;
+	padding: 5px 20px;
+}
+
+h2 {
+	font-size: 130%;
+	margin: 15px 0px 20px 0px;
+}
+
+dl {
+	margin: 0px 10px;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin-bottom: 10px;
+}
+
+#license {
+	width: 90%;
+	background-color: #f7f7f7;
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin: 20px 0px;
+}
+
+#license dl {
+	margin-left: 0px;
+}
+
+#license dt {
+	margin-bottom: 10px;
+}
+
+#license dd {
+	font-size: 90%;
+}
+
+.license_item {
+	font-size: 90%;
+	font-weight: bold;
+}
+
+table {
+	margin-bottom: 10px;
+}
+
+thead tr, tfoot tr {
+	background-color: #ddd;
+}
+
+tbody tr {
+	background-color: #eee;
+}
+
+tbody th, td {
+	vertical-align: top;
+	padding: 2px;
+	font-size: 90%;
+	text-align: left;
+}
+
+table h3 {
+	font-size: 110%;
+	margin: 10px;
+}
+
+
+

@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* This is the default style sheet for the 'lnav.htm' frame */
+
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 80%;
+	font-family: verdana, arial, helvetica, sans-serif;
+	color: #000;
+	background-color: #eee;
+}
+
+h1 {
+	font-size: 120%;
+	padding: 10px;
+}
+
+h2 {
+	font-size: 100%;
+	padding: 20px 5px 0px 5px;
+	margin: 0;
+}
+
+p {
+	padding: 0px 3px 3px 5px;
+	margin: 0;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+li {
+	list-style: outside;
+	list-style-type: none;
+	background-color: #eee;
+	border-bottom: 1px solid #eee;
+}
+
+ul li ul li {
+	margin-left: 20px;
+}
+
+a {
+	display: block;
+	text-decoration: none;
+	color: #000;
+	background-color: #fff;
+	padding: 5px;
+	border-bottom: 1px solid #eee;
+}
+
+a:hover, a:focus, a.current {
+	color: #000;
+	background-color: #ff9900;
+}
+
+
+/* Styles for the expanding and contracting nav. */	
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: block;
+}
+
+
+

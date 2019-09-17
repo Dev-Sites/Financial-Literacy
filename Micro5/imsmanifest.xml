@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is a Reload version 2.5.1 SCORM 1.2 Content Package document-->
+<!--Spawned from the Reload Content Package Generator - http://www.reload.ac.uk-->
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="MANIFEST-3DE8AFC4DAB3CAE0C347EE73FC340010" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 http://e-standards.flexiblelearning.net.au/xsd/ims/vetadata-scorm-v1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="ORG-54D4CEFAFA50F2F317679BD4D9830D93">
+    <organization identifier="ORG-54D4CEFAFA50F2F317679BD4D9830D93" structure="hierarchical">
+      <title>Taxation requirements for the micro business</title>
+      <item identifier="ITEM-6C844C8927594E24218494DDAD040B6F" isvisible="true" identifierref="RES-D74BE1716663F3872E4ECD1F1BB0A55F">
+        <title>About this resource</title>
+      </item>
+      <item identifier="ITEM-02236BFF0A1FD4AD7AA7FEE46CAEC45A" isvisible="true" identifierref="RES-DF55E895123EED2E1255315D07649B34">
+        <title>Introduction</title>
+      </item>
+      <item identifier="ITEM-7407DC8DDC978079E3592E8989C6B960" isvisible="true" identifierref="RES-FA6864FB4C23422420B1015DCA8567E2">
+        <title>Acronyms</title>
+      </item>
+      <item identifier="ITEM-BE9EFDBB4A3B9F1A12799BFED2FBC6A5" isvisible="true" identifierref="RES-98013A906B786C572A30FE4BF28D3CE4">
+        <title>Registration</title>
+      </item>
+      <item identifier="ITEM-83765DA4553DF1152871E98E117C6917" isvisible="true" identifierref="RES-E687E8E7E6ED76CB69636FC6E19EDDAA">
+        <title>Terminology</title>
+      </item>
+      <item identifier="ITEM-EEDB68B5357B45F05EBA16C274282CB7" isvisible="true" identifierref="RES-115751A576BCCB7835781B1FB06C94DA">
+        <title>Keeping records</title>
+      </item>
+      <item identifier="ITEM-E053469C73454A969CE493ACE20325A3" isvisible="true" identifierref="RES-EF7C9C96C7599A971F468F39ED68CC3C">
+        <title>You do it</title>
+      </item>
+      <item identifier="ITEM-45FF2C60031BF18D309AAB80B3FC8C78" isvisible="true" identifierref="RES-A3DD50185E2AC46D4F1BEA96CD1D4892">
+        <title>Sum up</title>
+      </item>
+      <item identifier="ITEM-D361C85CA6ACDFCF82142BA805B0E768" isvisible="true" identifierref="RES-1C5D6284E3C33D623EC75AAAFB6F786D">
+        <title>Glossary</title>
+      </item>
+      <item identifier="ITEM-A8FE3B2EE7F2CB2434C192E93B7DBEC6" isvisible="true" identifierref="RES-A1A91F27D8AA9A40E1F6C9022210072B">
+        <title>Business Support</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-D74BE1716663F3872E4ECD1F1BB0A55F" adlcp:scormtype="asset" type="webcontent" href="copyright/aboutthisresource.htm">
+      <file href="copyright/aboutthisresource.htm" />
+      <file href="copyright/aflf_2005.gif" />
+      <file href="copyright/toolboxlogo.gif" />
+      <file href="copyright/toolboxstyle.css" />
+    </resource>
+    <resource identifier="RES-DF55E895123EED2E1255315D07649B34" adlcp:scormtype="sco" type="webcontent" href="1105_05/taxation/01_intro.htm">
+      <file href="1105_05/taxation/01_intro.htm" />
+      <file href="1105_05/taxation/images/03_registration.jpg" />
+      <file href="shared/css/global.css" />
+      <file href="shared/css/print.css" />
+      <file href="shared/images/activity_footer.jpg" />
+      <file href="shared/images/activity_icon.jpg" />
+      <file href="shared/images/extra_pages_left.gif" />
+      <file href="shared/images/fileit_icon.jpg" />
+      <file href="shared/images/hint_icon.gif" />
+      <file href="shared/images/text_alt/body_left_text.jpg" />
+      <file href="shared/images/text_alt/header_centre_text.jpg" />
+      <file href="shared/images/text_alt/image_left_text.jpg" />
+      <file href="shared/scripts/api.js" />
+      <file href="shared/scripts/popup.js" />
+      <file href="shared/scripts/swfobject.js" />
+    </resource>
+    <resource identifier="RES-FA6864FB4C23422420B1015DCA8567E2" adlcp:scormtype="sco" type="webcontent" href="1105_05/taxation/02_acronym.htm">
+      <file href="1105_05/taxation/02_acronym.htm" />
+      <file href="1105_05/taxation/images/02_olive_tree.jpg" />
+      <file href="1105_05/taxation/text_version/02_acronyms_tv.htm" />
+      <file href="shared/css/global.css" />
+      <file href="shared/css/print.css" />
+      <file href="shared/images/activity_footer.jpg" />
+      <file href="shared/images/activity_icon.jpg" />
+      <file href="shared/images/extra_pages_left.gif" />
+      <file href="shared/images/fileit_icon.jpg" />
+      <file href="shared/images/hint_icon.gif" />
+      <file href="shared/images/text_alt/body_left_text.jpg" />
+      <file href="shared/images/text_alt/header_centre_text.jpg" />
+      <file href="shared/images/text_alt/header_left_text.jpg" />
+      <file href="shared/images/text_alt/header_right_text.jpg" />
+      <file href="shared/images/text_alt/image_left_text.jpg" />
+      <file href="shared/scripts/api.js" />
+      <file href="shared/scripts/popup.js" />
+      <file href="shared/scripts/swfobject.js" />
+    </resource>
+    <resource identifier="RES-98013A906B786C572A30FE4BF28D3CE4" adlcp:scormtype="sco" type="webcontent" href="1105_05/taxation/03_registration.htm">
+      <file href="1105_05/taxation/03_registration.htm" />
+      <file href="1105_05/taxation/images/03_cross.jpg" />
+      <file href="1105_05/taxation/images/03_lady_computer.jpg" />
+      <file href="1105_05/taxation/images/03_registration_julie.jpg" />
+      <file href="1105_05/taxation/images/03_tick.jpg" />
+      <file href="1105_05/taxation/text_version/03_registration_tv.htm" />
+      <file href="shared/css/global.css" />
+      <file href="shared/css/print.css" />
+      <file href="shared/images/activity_footer.jpg" />
+      <file href="shared/images/activity_icon.jpg" />
+      <file href="shared/images/extra_pages_left.gif" />
+      <file href="shared/images/fileit_icon.jpg" />
+      <file href="shared/images/hint_icon.gif" />
+      <file href="shared/images/text_alt/body_left_text.jpg" />
+      <file href="shared/images/text_alt/header_centre_text.jpg" />
+      <file href="shared/images/text_alt/header_left_text.jpg" />
+      <file href="shared/images/text_alt/header_right_text.jpg" />
+      <file href="shared/images/text_alt/image_left_text.jpg" />
+      <file href="shared/scripts/api.js" />
+      <file href="shared/scripts/popup.js" />
+      <file href="shared/scripts/swfobject.js" />
+    </resource>
+    <resource identifier="RES-E687E8E7E6ED76CB69636FC6E19EDDAA" adlcp:scormtype="sco" type="webcontent" href="1105_05/taxation/04_terminology.htm">
+      <file href="1105_05/taxation/04_terminology.htm" />
+      <file href="1105_05/taxation/images/04_terminology.jpg" />
+      <file href="1105_05/taxation/text_version/04_terminology_tv.htm" />
+      <file href="shared/css/global.css" />
+      <file href="shared/css/print.css" />
+      <file href="shared/images/activity_footer.jpg" />
+      <file href="shared/images/activity_icon.jpg" />
+      <file href="shared/images/extra_pages_left.gif" />
+      <file href="shared/images/fileit_icon.jpg" />
+      <file href="shared/images/hint_icon.gif" />
+      <file href="shared/images/text_alt/body_left_text.jpg" />
+      <file href="shared/images/text_alt/header_centre_text.jpg" />
+      <file href="shared/images/text_alt/header_left_text.jpg" />
+      <file href="shared/images/text_alt/header_right_text.jpg" />
+      <file href="shared/images/text_alt/image_left_text.jpg" />
+      <file href="shared/scripts/api.js" />
+      <file href="shared/scripts/popup.js" />
+      <file href="shared/scripts/swfobject.js" />
+    </resource>
+    <resource identifier="RES-115751A576BCCB7835781B1FB06C94DA" adlcp:scormtype="sco" type="webcontent" href="1105_05/taxation/05_records.htm">
+      <file href="1105_05/taxation/05_records.htm" />
+      <file href="1105_05/taxation/text_version/05_records_tv.htm" />
+      <file href="shared/css/global.css" />
+      <file href="shared/css/print.css" />
+      <file href="shared/images/activity_footer.jpg" />
+      <file href="shared/images/activity_icon.jpg" />
+      <file href="shared/images/extra_pages_left.gif" />
+      <file href="shared/images/fileit_icon.jpg" />
+      <file href="shared/images/hint_icon.gif" />
+      <file href="shared/images/text_alt/body_left_text.jpg" />
+      <file href="shared/images/text_alt/header_centre_text.jpg" />
+      <file href="shared/images/text_alt/header_left_text.jpg" />
+      <file href="shared/images/text_alt/header_right_text.jpg" />
+      <file href="shared/images/text_alt/image_left_text.jpg" />
+      <file href="shared/scripts/api.js" />
+      <file href="shared/scripts/popup.js" />
+      <file href="shared/scripts/swfobject.js" />
+    </resource>
+    <resource identifier="RES-EF7C9C96C7599A971F468F39ED68CC3C" adlcp:scormtype="sco" type="webcontent" href="1105_05/taxation/06_you_do_it.htm">
+      <file href="1105_05/taxation/06_you_do_it.htm" />
+      <file href="1105_05/taxation/docs/taxation_worksheet.doc" />
+      <file href="shared/css/global.css" />
+      <file href="shared/images/activity_footer.jpg" />
+      <file href="shared/images/activity_icon.jpg" />
+      <file href="shared/images/extra_pages_left.gif" />
+      <file href="shared/images/fileit_icon.jpg" />
+      <file href="shared/images/hint_icon.gif" />
+      <file href="shared/images/text_alt/body_left_text.jpg" />
+      <file href="shared/images/text_alt/header_centre_text.jpg" />
+      <file href="shared/images/text_alt/image_left_text.jpg" />
+      <file href="shared/scripts/api.js" />
+    </resource>
+    <resource identifier="RES-A3DD50185E2AC46D4F1BEA96CD1D4892" adlcp:scormtype="sco" type="webcontent" href="1105_05/taxation/07_sum_up.htm">
+      <file href="1105_05/taxation/07_sum_up.htm" />
+      <file href="1105_05/taxation/text_version/07_sum_up_tv.htm" />
+      <file href="shared/css/global.css" />
+      <file href="shared/css/print.css" />
+      <file href="shared/images/activity_footer.jpg" />
+      <file href="shared/images/activity_icon.jpg" />
+      <file href="shared/images/extra_pages_left.gif" />
+      <file href="shared/images/fileit_icon.jpg" />
+      <file href="shared/images/hint_icon.gif" />
+      <file href="shared/images/text_alt/body_left_text.jpg" />
+      <file href="shared/images/text_alt/header_centre_text.jpg" />
+      <file href="shared/images/text_alt/header_left_text.jpg" />
+      <file href="shared/images/text_alt/header_right_text.jpg" />
+      <file href="shared/images/text_alt/image_left_text.jpg" />
+      <file href="shared/scripts/api.js" />
+      <file href="shared/scripts/popup.js" />
+      <file href="shared/scripts/swfobject.js" />
+    </resource>
+    <resource identifier="RES-1C5D6284E3C33D623EC75AAAFB6F786D" adlcp:scormtype="asset" type="webcontent" href="glossary/glossary.htm">
+      <file href="glossary/glossary.htm" />
+      <file href="shared/css/global.css" />
+      <file href="shared/css/print.css" />
+      <file href="shared/images/activity_footer.jpg" />
+      <file href="shared/images/activity_icon.jpg" />
+      <file href="shared/images/extra_pages_left.gif" />
+      <file href="shared/images/fileit_icon.jpg" />
+      <file href="shared/images/hint_icon.gif" />
+      <file href="shared/images/text_alt/body_left_text.jpg" />
+      <file href="shared/images/text_alt/footer_left_text.jpg" />
+      <file href="shared/images/text_alt/header_centre_text.jpg" />
+      <file href="shared/images/text_alt/header_left_text.jpg" />
+      <file href="shared/images/text_alt/header_right_text.jpg" />
+      <file href="shared/images/text_alt/image_left_text.jpg" />
+    </resource>
+    <resource identifier="RES-A1A91F27D8AA9A40E1F6C9022210072B" adlcp:scormtype="asset" type="webcontent" href="support/support_home.htm">
+      <file href="support/support_home.htm" />
+      <file href="shared/css/global.css" />
+      <file href="shared/css/print.css" />
+      <file href="shared/css/support.css" />
+      <file href="shared/images/activity_footer.jpg" />
+      <file href="shared/images/activity_icon.jpg" />
+      <file href="shared/images/extra_pages_left.gif" />
+      <file href="shared/images/fileit_icon.jpg" />
+      <file href="shared/images/hint_icon.gif" />
+      <file href="shared/images/text_alt/body_left_text.jpg" />
+      <file href="shared/images/text_alt/header_centre_text.jpg" />
+      <file href="shared/images/text_alt/header_left_text.jpg" />
+      <file href="shared/images/text_alt/header_right_text.jpg" />
+      <file href="shared/images/text_alt/image_left_text.jpg" />
+      <file href="shared/scripts/popup.js" />
+      <file href="shared/scripts/swfobject.js" />
+      <file href="support/finances/cash_flow/01_forecasts.htm" />
+      <file href="support/finances/cash_flow/02_establish_costs.htm" />
+      <file href="support/finances/cash_flow/03_ongoing_exp.htm" />
+      <file href="support/finances/cash_flow/04_pricing.htm" />
+      <file href="support/finances/cash_flow/05_cashflow.htm" />
+      <file href="support/finances/finances_intro.htm" />
+      <file href="support/finances/financial_position/01_finance_terms.htm" />
+      <file href="support/finances/financial_position/02_your_finances.htm" />
+      <file href="support/finances/financial_position/03_personal_worth.htm" />
+      <file href="support/finances/financial_position/04_equity.htm" />
+      <file href="support/finances/further_reading.htm" />
+      <file href="support/finances/profitability/01_keep_records.htm" />
+      <file href="support/finances/profitability/02_review.htm" />
+      <file href="support/finances/profitability/03_record_tips.htm" />
+      <file href="support/finances/profitability/04_owner_equity.htm" />
+      <file href="support/finances/profitability/05_viability.htm" />
+      <file href="support/finances/profitability/06_viability.htm" />
+      <file href="support/finances/profitability/07_viability.htm" />
+      <file href="support/finances/profitability/images/balance_sheet2.jpg" />
+      <file href="support/finances/profitability/images/profit_loss.jpg" />
+      <file href="support/finances/source_funds/01_finance_questions.htm" />
+      <file href="support/finances/source_funds/02_debt_or_equity.htm" />
+      <file href="support/finances/source_funds/03_compare_loans.htm" />
+      <file href="support/finances/source_funds/04_case_study.htm" />
+      <file href="support/finances/source_funds/images/image_1.jpg" />
+      <file href="support/finances/source_funds/images/image_2.jpg" />
+      <file href="support/finances/text_version/balance_sheet.htm" />
+      <file href="support/finances/text_version/pandl_statement.htm" />
+      <file href="support/images/bg_gradient.jpg" />
+      <file href="support/images/body_left.jpg" />
+      <file href="support/images/body_left_support.jpg" />
+      <file href="support/images/body_right.jpg" />
+      <file href="support/images/footer_centre.jpg" />
+      <file href="support/images/footer_left.jpg" />
+      <file href="support/images/footer_left_support.jpg" />
+      <file href="support/images/footer_right.jpg" />
+      <file href="support/images/global_navbg.gif" />
+      <file href="support/images/header_bottom_left.jpg" />
+      <file href="support/images/header_bottom_right.jpg" />
+      <file href="support/images/header_top_centre.jpg" />
+      <file href="support/images/header_top_left.jpg" />
+      <file href="support/images/header_top_right.jpg" />
+      <file href="support/images/tip_bg_gradient.jpg" />
+      <file href="support/opportunities/factors/01_env_factors.htm" />
+      <file href="support/opportunities/factors/02_plc.htm" />
+      <file href="support/opportunities/factors/02b_plc.htm" />
+      <file href="support/opportunities/factors/03_pro_changes.htm" />
+      <file href="support/opportunities/factors/04_price_avail.htm" />
+      <file href="support/opportunities/further_reading.htm" />
+      <file href="support/opportunities/ideas/01_opp_ideas.htm" />
+      <file href="support/opportunities/ideas/02_qualities.htm" />
+      <file href="support/opportunities/ideas/03_case_study.htm" />
+      <file href="support/opportunities/ideas/04_biz_types.htm" />
+      <file href="support/opportunities/images/tracybialek.jpg" />
+      <file href="support/opportunities/needs/01_sources_info.htm" />
+      <file href="support/opportunities/needs/02_primary_info.htm" />
+      <file href="support/opportunities/needs/03_secondary_info.htm" />
+      <file href="support/opportunities/needs/04_market_size.htm" />
+      <file href="support/opportunities/needs/05_new_market.htm" />
+      <file href="support/opportunities/needs/06_case_study_trends.htm" />
+      <file href="support/opportunities/opp_intro.htm" />
+      <file href="support/proposals/detail_ideas/01_ideas.htm" />
+      <file href="support/proposals/detail_ideas/02_business_description.htm" />
+      <file href="support/proposals/detail_ideas/03_business_summary.htm" />
+      <file href="support/proposals/detail_ideas/04_proposal_outline.htm" />
+      <file href="support/proposals/detail_ideas/05_marketing.htm" />
+      <file href="support/proposals/evaluate_opps/01_case_study.htm" />
+      <file href="support/proposals/evaluate_opps/01a_viability.htm" />
+      <file href="support/proposals/evaluate_opps/02_feasibility_checklist.htm" />
+      <file href="support/proposals/evaluate_opps/03_swot_analysis.htm" />
+      <file href="support/proposals/evaluate_opps/06_new_technology.htm" />
+      <file href="support/proposals/evaluate_opps/07_business_risk.htm" />
+      <file href="support/proposals/evaluate_opps/images/ursula_in_studio.jpg" />
+      <file href="support/proposals/further_reading.htm" />
+      <file href="support/proposals/prepare_overview/01_stakeholders.htm" />
+      <file href="support/proposals/prepare_overview/02_oral_presentation.htm" />
+      <file href="support/proposals/prepare_overview/03_power_point.htm" />
+      <file href="support/proposals/prepare_overview/04_practise_presentation.htm" />
+      <file href="support/proposals/prepare_overview/05_delivering_presentation.htm" />
+      <file href="support/proposals/prepare_overview/06_develop_website.htm" />
+      <file href="support/proposals/proposals_intro.htm" />
+      <file href="support/regulations/further_reading.htm" />
+      <file href="support/regulations/insurance/01_basics.htm" />
+      <file href="support/regulations/insurance/02_categories.htm" />
+      <file href="support/regulations/insurance/03_types.htm" />
+      <file href="support/regulations/insurance/04_costs.htm" />
+      <file href="support/regulations/insurance/05_home_business.htm" />
+      <file href="support/regulations/regulations_02/01_business_name.htm" />
+      <file href="support/regulations/regulations_02/02_trade_marks.htm" />
+      <file href="support/regulations/regulations_02/03_ohs.htm" />
+      <file href="support/regulations/regulations_02/04_licences_permits.htm" />
+      <file href="support/regulations/regulations_02/05_trades_practices_act.htm" />
+      <file href="support/regulations/regulations_02/06_discrimination.htm" />
+      <file href="support/regulations/regulations_02/images/02_oil_logo.jpg" />
+      <file href="support/regulations/regulations_intro.htm" />
+      <file href="support/regulations/taxation/01_tax_terms.htm" />
+      <file href="support/regulations/taxation/02_income_tax.htm" />
+      <file href="support/resources/further_reading.htm" />
+      <file href="support/resources/identify_res/01_id_get_start.htm" />
+      <file href="support/resources/identify_res/02_id_location01.htm" />
+      <file href="support/resources/identify_res/02_id_location02.htm" />
+      <file href="support/resources/identify_res/02_id_location03.htm" />
+      <file href="support/resources/identify_res/02_id_location04.htm" />
+      <file href="support/resources/identify_res/03_id_costs.htm" />
+      <file href="support/resources/prepare_res/01_prepare_res.htm" />
+      <file href="support/resources/prepare_res/02_prepare_res.htm" />
+      <file href="support/resources/prepare_res/03_prepare_res.htm" />
+      <file href="support/resources/prepare_res/04_prepare_res.htm" />
+      <file href="support/resources/resources_intro.htm" />
+      <file href="support/resources/select_res/01_select_res.htm" />
+      <file href="support/resources/select_res/02_select_res.htm" />
+      <file href="support/resources/select_res/03_select_res.htm" />
+      <file href="support/resources/select_res/04_select_res.htm" />
+    </resource>
+  </resources>
+</manifest>
+

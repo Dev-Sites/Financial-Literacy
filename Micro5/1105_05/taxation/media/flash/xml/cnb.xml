@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checks_and_balances>
+  <setup>
+    <applicationTitle text="Taxation" />
+    <appInstructions text="" />
+	<finalFeedbackIntro text="" />
+	<finalFeedbackEnd text="" />
+	<isSurvey text="false" />
+  </setup>
+  <section>
+    <heading text="" />
+    <allowFeedbackThisSection text="true" />
+    <sectionFeedback 
+A_grade_score="10"
+B_grade_score="9"
+C_grade_score="6"
+D_grade_score="3"
+E_grade_score="0"
+
+A_grade_feedback="
+Well done, fantastic result.
+You obviously have knowledge of taxation that will benefit you as a micro business owner. 
+To further your knowledge and to keep up with changes to the taxation system, visit the Australian Taxation Office web site often.
+www.ato.gov.au"
+B_grade_feedback="
+Good result, but still a little bit more to learn.
+If you want to improve your knowledge on the taxation system, consider visiting the Australian Taxation Office web site.
+www.ato.gov.au"
+C_grade_feedback="
+Your score indicates you have some knowledge of taxation requirements but plenty of room to learn more.
+A good place to find relevant information is on the Australian Taxation Office web site.
+www.ato.gov.au"
+D_grade_feedback="
+Looks like you have plenty to learn about taxation.
+Try doing some more research and then attempt the questions again. 
+A good place to find relevant information is on the Australian Taxation Office web site.
+www.ato.gov.au"
+E_grade_feedback=""
+
+/>
+    <!--mustSelectThisManyAnswers == allowedSelectionNumber-->
+    <question text="&lt;b&gt;Q1. &lt;/b&gt;If your business sells a product to a customer and provides that customer with a tax invoice, the invoice..." passingScore="1" mustSelectThisManyAnswers="1">
+      <answer_1 text="must include your ABN." score="1"/>
+      <answer_2 text="must not include your ABN." score="0" />
+      <answer_3 text="may if you choose include your ABN." score="0" />
+      <answer_4 text="" score="0" />
+      <answer_5 text="" score="0" />
+      <positiveFeedback text="
+You are correct, the invoice must include the ABN.
+Close this box and move to the next question." />
+      <negativeFeedback text="
+No, your answer to question 1 is incorrect. The invoice should include your ABN.
+Close this box and move to the next question." />
+      <smallImage>images/default_qm.gif</smallImage>
+      <largeImage></largeImage>
+      <endQuestion />
+    </question>
+	<question text="&lt;b&gt;Q2. &lt;/b&gt;If you have previously been an employee and paid tax and have now commenced your own business as a sole trader..." passingScore="1" mustSelectThisManyAnswers="1">
+      <answer_1 text="you will have no need for a Tax File Number." score="0"/>
+      <answer_2 text="you must obtain a new Tax File Number." score="0" />
+      <answer_3 text="you can continue using your existing Tax File Number." score="1" />
+      <answer_4 text="" score="0" />
+      <answer_5 text="" score="0" />
+      <positiveFeedback text="
+Excellent choice, you are correct, you can continue using your existing Tax File Number.
+Close this box and move to the next question." />
+      <negativeFeedback text="
+Sorry but your answer to question 2 is incorrect. You can continue using your existing Tax File Number.
+Close this box and move to the next question." />
+      <smallImage>images/default_qm.gif</smallImage>
+      <largeImage></largeImage>
+      <endQuestion />
+    </question>
+	<question text="&lt;b&gt;Q3. &lt;/b&gt;Goods and services tax (GST) is a broad-based tax on most goods, services and other items sold or consumed in Australia. At what percentage rate (%) is GST applied?" passingScore="1" mustSelectThisManyAnswers="1">
+      <answer_1 text="5%" score="0"/>
+      <answer_2 text="10%" score="1" />
+      <answer_3 text="15%" score="0" />
+      <answer_4 text="100%" score="0" />
+      <answer_5 text="" score="0" />
+      <positiveFeedback text="
+Spot on! GST is applied at the rate of 10%.
+Close this box and move to the next question." />
+      <negativeFeedback text="
+Your answer to question 3 is incorrect. The current GST rate is 10%.
+Close this box and move to the next question." />
+      <smallImage>images/default_qm.gif</smallImage>
+      <largeImage></largeImage>
+      <endQuestion />
+    </question>
+		<question text="&lt;b&gt;Q4. &lt;/b&gt;Pay As You Go (PAYG) instalments are... " passingScore="1" mustSelectThisManyAnswers="1">
+      <answer_1 text="only paid if annual turnover exceeds $75000 per year." score="0"/>
+      <answer_2 text="deducted from employee wages." score="0" />
+      <answer_3 text="monies paid towards end of year tax liability." score="1" />
+      <answer_4 text="tax amounts returned by the Australian Tax Office." score="0" />
+      <answer_5 text="" score="0" />
+      <positiveFeedback text="
+Well done! PAYG installments are monies paid towards end of year tax liability.
+Close this box and move to the next question." />
+      <negativeFeedback text="
+No that's not the correct answer to question 4. PAYG installments are monies paid towards end of year tax liability.
+Close this box and move to the next question." />
+      <smallImage>images/default_qm.gif</smallImage>
+      <largeImage></largeImage>
+      <endQuestion />
+    </question>
+		<question text="&lt;b&gt;Q5. &lt;/b&gt;You must register for GST if your current or projected turnover is..." passingScore="1" mustSelectThisManyAnswers="1">
+      <answer_1 text="$25,000 or more." score="0"/>
+      <answer_2 text="$50,000 or more." score="0" />
+      <answer_3 text="$75,000 or more." score="1" />
+      <answer_4 text="$100,000 or more." score="0" />
+      <answer_5 text="" score="0" />
+      <positiveFeedback text="
+You got this one right. You must register for GST if your current or projected turnover is $75,000 or more.
+Close this box and move to the next question." />
+      <negativeFeedback text="
+Bad luck, your answer to question 5 is incorrect. You must register for GST if your current or projected turnover is $75,000 or more.
+Close this box and move to the next question." />
+      <smallImage>images/default_qm.gif</smallImage>
+      <largeImage></largeImage>
+      <endQuestion />
+    </question>
+		<question text="&lt;b&gt;Q6. &lt;/b&gt;Which of the following would be considered a fringe benefit if provided to an employee in addition to their wages?" passingScore="1" mustSelectThisManyAnswers="1">
+      <answer_1 text="The use of a work car for personal purposes." score="1"/>
+      <answer_2 text="A laptop computer." score="0" />
+      <answer_3 text="A pair of overalls to provide protection on the job." score="0" />
+      <answer_4 text="A mobile phone for work purposes." score="0" />
+      <answer_5 text="" score="0" />
+      <positiveFeedback text="
+Great, you're right, the use of a work car for personal purposes is a fringe benefit.
+Close this box and move to the next question." />
+      <negativeFeedback text="
+Sorry your answer to question 6 is incorrect. The use of a work car for personal purposes is a fringe benefit.
+Close this box and move to the next question." />
+      <smallImage>images/default_qm.gif</smallImage>
+      <largeImage></largeImage>
+      <endQuestion />
+    </question>
+		<question text="&lt;b&gt;Q7. &lt;/b&gt;When it comes to completing your annual tax return you can include allowable deductions. What are allowable deductions?" passingScore="1" mustSelectThisManyAnswers="1">
+      <answer_1 text="Money spent on personal holidays." score="0"/>
+      <answer_2 text="Interest received from investments." score="0" />
+      <answer_3 text="Child care fees." score="0" />
+      <answer_4 text="Expenses incurred in running the business." score="1" />
+      <answer_5 text="" score="0" />
+      <positiveFeedback text="
+Correct response! Expenses incurred in running the business are allowable deductions.
+Close this box and move to the next question." />
+      <negativeFeedback text="
+I'm afraid your answer to question 7 is incorrect. The only allowable deductions in this list are expenses incurred in running the business.
+Close this box and move to the next question." />
+      <smallImage>images/default_qm.gif</smallImage>
+      <largeImage></largeImage>
+      <endQuestion />
+    </question>
+	<question text="&lt;b&gt;Q8. &lt;/b&gt;Records, such as sales or expense receipts and invoices, are used to calculate your assessable income and allowable deductions. For how long are you required to keep these records?" passingScore="1" mustSelectThisManyAnswers="1">
+      <answer_1 text="1 year" score="0"/>
+      <answer_2 text="2 years" score="0" />
+      <answer_3 text="5 years" score="1" />
+      <answer_4 text="10 years" score="0" />
+      <answer_5 text="" score="0" />
+      <positiveFeedback text="
+Yes, records must be kept for a minimum of five years.
+Close this box and move to the next question." />
+      <negativeFeedback text="
+No, the correct answer to question 8 is five years.
+Close this box and move to the next question." />
+      <smallImage>images/default_qm.gif</smallImage>
+      <largeImage></largeImage>
+      <endQuestion />
+    </question>
+	<question text="&lt;b&gt;Q9. &lt;/b&gt;Which of the following is a depreciating asset?" passingScore="1" mustSelectThisManyAnswers="1">
+      <answer_1 text="land you own." score="0"/>
+      <answer_2 text="a work computer." score="1" />
+      <answer_3 text="stock you purchase to sell." score="0" />
+      <answer_4 text="" score="0" />
+      <answer_5 text="" score="0" />
+      <positiveFeedback text="
+Good choice, the work computer was the only item that could be considered a depreciating asset.
+Close this box and move to the next question." />
+      <negativeFeedback text="
+No, your answer to question 9 is incorrect. The only depreciating asset in this list is a work computer.
+Close this box and move to the next question." />
+      <smallImage>images/default_qm.gif</smallImage>
+      <largeImage></largeImage>
+      <endQuestion />
+    </question>
+	<question text="&lt;b&gt;Q10. &lt;/b&gt;If you are operating a business as a sole trader and you employ a worker who is eligible for superannuation guarantee payments, what percentage of their earnings base must you pay into a superannuation fund?" passingScore="1" mustSelectThisManyAnswers="1">
+      <answer_1 text="A minimum of 9%" score="1"/>
+      <answer_2 text="A maximum of 9%" score="0" />
+      <answer_3 text="A minimum of 6%" score="0" />
+      <answer_4 text="A maximum of 6%" score="0" />
+      <answer_5 text="" score="0" />
+      <positiveFeedback text="
+Well done, you got the final question correct. You must pay a minimum of 9% of an eligable workers base earnings into a superannuation fund.
+Close this box and move forward to receive feedback on your overall result." />
+      <negativeFeedback text="
+No, your answer to question 10 is incorrect. You must pay a minimum of 9% of an eligable workers base earnings into a superannuation fund.
+Close this box and move forward to receive feedback on your overall result." />
+      <smallImage>images/default_qm.gif</smallImage>
+      <largeImage></largeImage>
+      <endQuestion />
+    </question>
+    <endSection />
+  </section>
+  <xmlLoaded />
+</checks_and_balances>

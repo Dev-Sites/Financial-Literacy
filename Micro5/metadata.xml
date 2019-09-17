@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is a Reload version 2.5.1 Metadata document-->
+<!--Spawned from the Reload Metadata Generator - http://www.reload.ac.uk-->
+<lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 http://e-standards.flexiblelearning.net.au/xsd/ims/vetadata-scorm-v1.xsd">
+  <general>
+    <title>
+      <langstring xml:lang="en">Taxation requirements for the micro business</langstring>
+    </title>
+    <catalogentry>
+      <catalog>Australian Flexible Learning Toolboxes</catalog>
+      <entry>
+        <langstring xml:lang="en">1105_05</langstring>
+      </entry>
+    </catalogentry>
+    <language>en-AU</language>
+    <description>
+      <langstring xml:lang="en">This learning object describes the performance outcomes, skills and knowledge required to outline the taxation requirements of a micro business. It is applicable to many industry areas.</langstring>
+    </description>
+    <keyword>
+      <langstring xml:lang="en">taxation acronyms</langstring>
+    </keyword>
+    <keyword>
+      <langstring xml:lang="en">taxation requirements for a micro business</langstring>
+    </keyword>
+    <keyword>
+      <langstring xml:lang="en">tax file number registration</langstring>
+    </keyword>
+    <keyword>
+      <langstring xml:lang="en">business activity statement</langstring>
+    </keyword>
+    <keyword>
+      <langstring xml:lang="en">goods and services tax registration</langstring>
+    </keyword>
+    <keyword>
+      <langstring xml:lang="en">Australian business number registration</langstring>
+    </keyword>
+    <keyword>
+      <langstring xml:lang="en">pay as you go withholding registration</langstring>
+    </keyword>
+    <aggregationlevel>
+      <source>
+        <langstring xml:lang="x-none">LOMv1.0</langstring>
+      </source>
+      <value>
+        <langstring xml:lang="x-none">3</langstring>
+      </value>
+    </aggregationlevel>
+  </general>
+  <lifecycle>
+    <version>
+      <langstring xml:lang="en">1.0</langstring>
+    </version>
+    <status>
+      <source>
+        <langstring xml:lang="x-none">LOMv1.0</langstring>
+      </source>
+      <value>
+        <langstring xml:lang="x-none">final</langstring>
+      </value>
+    </status>
+    <contribute>
+      <role>
+        <source>
+          <langstring xml:lang="x-none">LOMv1.0</langstring>
+        </source>
+        <value>
+          <langstring xml:lang="x-none">author</langstring>
+        </value>
+      </role>
+      <centity>
+        <vcard>Kangan Batman TAFE Melbourne Victoria</vcard>
+      </centity>
+      <date>
+        <datetime>2008-12-15</datetime>
+      </date>
+    </contribute>
+  </lifecycle>
+  <metametadata>
+    <metadatascheme>LOMv1.0</metadatascheme>
+    <metadatascheme>VETADATAv0.1</metadatascheme>
+  </metametadata>
+  <technical>
+    <format>text/html</format>
+    <format>text/css</format>
+    <format>image/jpeg</format>
+    <format>image/gif</format>
+    <format>application/x-shockwave-flash</format>
+    <location type="URI">./</location>
+  </technical>
+  <educational>
+    <learningresourcetype>
+      <source>
+        <langstring xml:lang="x-none">LOMv1.0</langstring>
+      </source>
+      <value>
+        <langstring xml:lang="x-none">activity</langstring>
+      </value>
+    </learningresourcetype>
+    <context>
+      <source>
+        <langstring xml:lang="x-none">LOMv1.0</langstring>
+      </source>
+      <value>
+        <langstring xml:lang="x-none">training</langstring>
+      </value>
+    </context>
+  </educational>
+  <rights>
+    <cost>
+      <source>
+        <langstring xml:lang="x-none">LOMv1.0</langstring>
+      </source>
+      <value>
+        <langstring xml:lang="x-none">no</langstring>
+      </value>
+    </cost>
+    <copyrightandotherrestrictions>
+      <source>
+        <langstring xml:lang="x-none">LOMv1.0</langstring>
+      </source>
+      <value>
+        <langstring xml:lang="x-none">yes</langstring>
+      </value>
+    </copyrightandotherrestrictions>
+    <description>
+      <langstring xml:lang="en">TITLE: Licensed under Creative Commons Attribution-ShareAlike 3.0 Australia License; STATEMENT: This Learning Material may be freely used, copied, adapted and distributed. Limited warranty. Copyright in any enhancements vest automatically in the original copyright owner.; URL: http://creativecommons.org/licenses/by-sa/3.0/au; SPECIAL_CONDITIONS: The territory is limited to Australia and New Zealand only. You are not entitled to charge a fee for distribution or communication of the original Material, except as such Supply occurs in the context of education services provided by a Registered Training Organisation. Where you (the Licensee) Develop an Enhanced Version of the Material for commercial distribution, permission must be sought before enhancements are begun. If approval is provided, you must then provide a copy of the Enhanced Version and proposed pricing for the Enhanced Version to the Commonwealth at least twenty (20) Business Days prior to publication. Note: the above conditions do not restrict enhancement and use of the resource for educational purposes within your organisation, however you must provide a copy of the Enhanced Version to the Commonwealth prior to its use by your organisation.; COPYRIGHT_OWNER: Copyright is owned by the Commonwealth of Australia. This material may be freely used by Australian training organisations for educational purposes. Onselling of this material in any form requires agreement from eWorks, managing the copyright on behalf of the Commonwealth.  Distribution permissions, requests, notifications and copies of Enhanced Versions should be addressed  to eWorks, acting on behalf of the Flexible Learning Advisory Group Secretariat, National Advisory on Tertiary Education, Skills and Employment: eWorks' contact details are Level 5, 437 St Kilda Road, Melbourne, Victoria 3004 or email: enquiries@eworks.edu.au.;</langstring>
+    </description>
+  </rights>
+  <classification>
+    <purpose>
+      <source>
+        <langstring xml:lang="x-none">LOMv1.0</langstring>
+      </source>
+      <value>
+        <langstring xml:lang="en">competency</langstring>
+      </value>
+    </purpose>
+    <taxonpath>
+      <source>
+        <langstring xml:lang="x-none">http://www.ntis.gov.au</langstring>
+      </source>
+      <taxon>
+        <id>BSBSMB305A</id>
+        <entry>
+          <langstring xml:lang="en">Comply with regulatory, taxation and insurance requirements for the micro business</langstring>
+        </entry>
+      </taxon>
+    </taxonpath>
+    <description>
+      <langstring xml:lang="en">BSBSMB305A Comply with regulatory, taxation and insurance requirements for the micro business</langstring>
+    </description>
+    <keyword>
+      <langstring xml:lang="en">BSBSMB305A Comply with regulatory, taxation and insurance requirements for the micro business</langstring>
+    </keyword>
+  </classification>
+  <classification>
+    <purpose>
+      <source>
+        <langstring xml:lang="x-none">LOMv1.0</langstring>
+      </source>
+      <value>
+        <langstring xml:lang="en">educational level</langstring>
+      </value>
+    </purpose>
+    <taxonpath>
+      <source>
+        <langstring xml:lang="x-none">http://www.aqf.edu.au/thirteen.htm</langstring>
+      </source>
+      <taxon>
+        <id />
+        <entry>
+          <langstring xml:lang="en">Certificate III</langstring>
+        </entry>
+      </taxon>
+    </taxonpath>
+    <description>
+      <langstring xml:lang="en">Certificate III</langstring>
+    </description>
+    <keyword>
+      <langstring xml:lang="en">Certificate III</langstring>
+    </keyword>
+  </classification>
+</lom>
+

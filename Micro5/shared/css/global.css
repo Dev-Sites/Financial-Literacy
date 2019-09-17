@@ -1,0 +1,432 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*************************image formatting on various pages***************************/
+#flashcontent_sound, #flashcontentCUSTOMERS,#flashcontentSOUND,#flash_marginleft{
+	margin-left:25px;
+}
+
+.image img{
+	padding:5px;
+	border:1px solid #d8dce7;
+	margin-left:15px;
+}
+.image_noborder img{
+	position:relative;
+	padding:5px;
+	margin-left:15px;
+}
+.image_page{
+	position:absolute;
+	top:128px;
+	right:60px;
+}
+.image_marginleft{
+  	margin-left:3%;
+}
+/*************************image formatting on various pages end***************************/
+
+
+/*************************shared coding***************************/
+body {
+	background-color:#ffffff;
+	margin:0px 0px 20px 0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:76%;
+	color:#333333;
+	min-width:600px;
+}
+p{
+	margin-right:15%;
+}
+.comment{
+	color:#FF0000;
+}
+.commentWhite{background-color:#fff;
+}
+.page_heading{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:1em;
+	font-weight:bold;
+	color:#333;
+}
+a{	
+	color:#263049;
+}
+a:hover{
+	color:#f47d49;
+}
+h1{
+ 	color:#333;
+ 	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:1.3em;
+	font-weight:bold;
+}
+h2{
+ 	color:#333;
+ 	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:1.1em;
+	font-weight:bold;
+}
+h3{
+	color:#333;
+ 	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:1em;
+	font-weight:bold;
+}
+.hint{
+	background-image:url(../images/hint_icon.gif);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	padding:5px 0px 30px 72px;
+	margin:15px 0px;
+}
+.hint p{
+	padding:0px; 
+	margin:8px 15% 0px 0px;
+}
+
+.file{
+	background-image:url(../images/fileit_icon.jpg);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	padding:12px 0px 30px 72px;
+	margin:15px 0px;
+}
+.file p{
+	padding:0px; 
+	margin:8px 15% 0px 0px;
+}
+ol li{
+	margin:0px 15% 15px 0px;
+}
+
+
+/*************************shared coding end***************************/
+
+
+
+/******************************  Image left text right styles (relevant to pages where the text wraps around the image***************************/
+
+.image_left{
+	position:relative;
+	float:left;
+	padding:10px 25px 10px 0px;
+	
+}
+.padding li{
+	margin:10px 0px 10px 10px;
+	padding:0px;
+}
+.text_right_illama{
+	padding-top:0px;
+	margin-left:195px;
+}
+.text_right_02aquire{
+	padding-top:0px;
+	margin-left:175px;
+}
+.text_right_04relationships{
+	padding-top:0px;
+	margin-left:300px;
+}
+.text_right_04flag{
+	padding-top:65px;
+	margin-left:120px;
+	width:480px;
+}
+.text_right_04flag li{
+	margin-top:5px;
+	
+}
+.story{
+	background-image:url(../../toolbox1105/regulations/insurance/images/05_corner_story.jpg);
+	background-repeat:no-repeat;
+	background-position:top right;
+	text-align:center;
+	margin:15px 15% 20px 3% ;
+	padding:0px 25px 45px 25px;
+	background-color:#e5e6eb;
+}
+.story p{
+	padding:0px;
+	margin:18px;
+	text-align:left;
+	font-size:1.1em;
+}
+/****************************** Chinese flag determine resources -relationships page*********************/
+#image_flag{
+	background-image:url(../../toolbox1105/resources/select/images/04_chinese_flag.jpg);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	height:276px;
+	margin:0px;
+	padding:0px;
+}
+/****************************** Chinese flag end*********************/
+/****************************** Image left text right styles end***************************/
+
+
+
+/******************************  business ideas - recognising oportunities page Ripple case study styles ***************************/
+
+.ripple{
+	position:relative;
+	background-color:#a4abb1;
+	width:600px;
+	margin:30px auto 35px auto;
+}
+.image_ripple{
+	border:2px solid #a4abb1;
+	float:left;
+	padding:0px;
+	margin:0px;
+}
+.ripple_text{
+	position:relative;
+	font-size:1.1em;
+	background-color:#edeed9;
+	text-align:left;
+	border-left:5px solid #D8DCE7;
+	padding:30px 20px 10px 15px;
+	margin:0px 0px 0px 148px;
+}
+.ripple_text p{
+	margin-right:0%;
+}
+
+/****************************** Ripple case study styles END ***************************/
+
+
+/****************************** lightglobe styles business ideas - information page ***************************/
+
+.globe{
+	width:455px;
+	margin:0px auto 0px auto;
+}
+.globe_content{
+	padding-left:10px;
+}
+.globe_text{
+	zoom:1;
+	background-image:url(../../business_ideas/images/03_globe_borders.gif);
+	background-repeat:repeat-y;
+	padding:5px 20px 5px 30px;
+	color:#4d5975;
+	font-size:1.1em;
+	font-weight:600;
+}
+
+/****************************** lightglobe styles END ***************************/
+
+
+
+
+/****************************** Main page styles ***************************/
+
+
+#nopad_content p{
+	margin-right:6%;
+}
+#content, #nopad_content{
+	color:#333333;
+	padding:10px 10px 30px 16px;
+	/*background-image:url(../images/body_corner.jpg);
+	background-repeat:no-repeat;
+	background-position:190px 0px;*/
+}
+#content ul{
+	margin-right:15%;
+}
+
+	
+/****************************** end***************************/
+
+/****************************** Summary page styles ***************************/
+
+
+.summary_image{
+	position:absolute;
+	top:30px;
+	right:18px;
+}
+
+
+/******************************end***************************/
+
+
+
+
+
+.clear{
+	clear:both;
+
+}
+
+/**********************Proposal 06 Personal skills page - format image text holder**************************/
+
+.unit_box_proposal{
+position:relative;
+	float:left;
+	margin:0px;
+	padding:0px;
+	width:51em;
+	border-top:1px solid #c1c1c1;
+	border-left:1px solid #c1c1c1;
+	border-right:1px solid #c1c1c1;
+	background-color:#dcdcdc;
+}
+.unit_text_proposal{
+	color:#333;
+	padding:1% 1% 1% 2%;
+	float:right;
+	width:310px;
+	height:168px;
+	
+}
+.image_unit_proposal{
+	padding:1%;
+	float:left;
+}
+.image_unit_proposal h2{
+	padding:0px;
+	margin:0px;
+}
+/******************Proposal 06 Personal skills page end- format image text holder*********************/
+
+
+
+
+
+	
+/****************************** Text alternative styles ***************************/
+
+/**** the Glossary is based on the text alternate page, but uses a different title image only *****/
+body.text_alternate #content_container, body.glossaryBod #content_container, body.extra_page #content_container{
+    height:1%;
+	background-image:url(../images/text_alt/body_left_text.jpg);
+	background-position:left;
+	background-repeat:repeat-y;
+	margin:0px;
+}
+body.text_alternate , body.extra_page{
+	min-width:0px;
+}
+body.text_alternate #header, body.glossaryBod #header, body.extra_page #header{
+	display:none;
+}
+#container_text{
+	background-color:#fff;
+}
+#header_top_centre{
+	height:76px;
+	background-image:url(../images/text_alt/header_centre_text.jpg);
+	background-repeat:repeat-x;
+}
+body.text_alternate #content_text, body.glossaryBod #content_text, body.extra_page #content_text{
+	padding:10px 30px 30px 90px;
+	background-image:url(../images/text_alt/image_left_text.jpg);
+	background-repeat:no-repeat;
+}
+
+body.extra_page #content_text{
+	background-image:url(../images/extra_pages_left.gif);
+}
+
+body.glossaryBod #content_text{
+	background-image:url(../../toolbox1105/glossary/images/image_left_glossary.jpg);
+}
+#content_text p{
+	padding-right:0%;
+	margin-right:0%;
+}
+/***format border box - text alt influences*****/
+
+#content_text .header_idea{
+	position:relative;
+	background-color:#CCCCCC;
+	padding:4px;
+	font-weight:bold;
+	font-size:1.1em;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	
+}
+/*****end***************/
+
+/****************************** Text alternative styles end***************************/
+
+/****************************** Sum up page Styles***************************/ 
+#one_flashcontent, #two_flashcontent, #three_flashcontent, #four_flashcontent, #five_flashcontent{
+	position:relative;
+	float:left;
+	padding:5px;
+}
+
+/****************************** Sum up page Styles***************************/ 
+
+/****************************** shared Activity styles***************************/
+.activity_container{
+	min-width:300px;
+	}
+
+.activity .act_content{
+	padding:1em;	
+}
+.act_content ul{
+	margin-right:15%;
+}
+.activity .act_header{
+	background-image:url(../images/activity_icon.jpg);
+	height:35px;
+	background-repeat:no-repeat;
+}
+.activity .act_footer{
+	background-image:url(../images/activity_footer.jpg);
+	background-position:left;
+	height:28px;
+	background-repeat:no-repeat;
+
+}
+
+/********************************** Activity styles end***************************************************/
+
+
+.copyright{
+	text-align:right;
+	margin:.5% 2.5% 0% 0%;
+	display:none;
+}
+
+/******************************table styles****************************************/
+
+table.contentPageTABLE{
+	background-color:#EEE;
+	border:1px solid #CDCDCD;
+	border-right:none;
+	border-bottom:none;
+}
+
+table.contentPageTABLE th{
+	background-color:#99a4c0;
+	padding:.4em .8em .4em .8em;
+	color:#333;
+	font-size:1.1em;
+	text-align:left;
+	border-right:1px solid #999;
+}
+
+table.contentPageTABLE td{
+	padding:.8em;
+	border-right:1px solid #CDCDCD;
+	border-bottom:1px solid #CDCDCD;
+}
+
+table.contentPageTABLE td.col2, table.contentPageTABLE tr.col2{
+	background-color:#E8e8e8;
+}
+
+table.contentPageTABLE caption{
+	display:none;
+}
+/******************************table styles****************************************/
