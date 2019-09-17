@@ -10,9 +10,6 @@
   <organizations default="ORG-54D4CEFAFA50F2F317679BD4D9830D93">
     <organization identifier="ORG-54D4CEFAFA50F2F317679BD4D9830D93" structure="hierarchical">
       <title>Taxation requirements for the  business</title>
-      <item identifier="ITEM-6C844C8927594E24218494DDAD040B6F" isvisible="true" identifierref="RES-D74BE1716663F3872E4ECD1F1BB0A55F">
-        <title>About this resource</title>
-      </item>
       <item identifier="ITEM-02236BFF0A1FD4AD7AA7FEE46CAEC45A" isvisible="true" identifierref="RES-DF55E895123EED2E1255315D07649B34">
         <title>Introduction</title>
       </item>
@@ -330,4 +327,3 @@
     </resource>
   </resources>
 </manifest>
-
